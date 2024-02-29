@@ -29,10 +29,11 @@ DEDSEC_BKIF is a potent Bluetooth exploit tool, leveraging CVE-2023-45866 to exp
 ### About Exploit
       https://perditionsecurity.com/understanding-bluetooth-security-flaw-cve-2023-45866/
 
-### If you want to submit your custom payload, you can join this Discord server [server](https://discord.gg/eUU9DnASzC).
 ## Support
 
 If you find my work helpful and want to support me, consider making a donation. Your contribution will help me continue working on open-source projects.
+
+#### If you want to submit your custom payload, you can join this Discord server [(DISCORD-SERVER)](https://discord.gg/eUU9DnASzC).
 
 **Bitcoin Address: `36ALguYpTgFF3RztL4h2uFb3cRMzQALAcm`**
 
