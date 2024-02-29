@@ -11,7 +11,7 @@ DEDSEC_BKIF is a potent Bluetooth exploit tool, leveraging CVE-2023-45866 to exp
 
 <h3 align="center"> TOOL BANNER </h3>
 <p align="center">
-<img src="https://github.com/0xbitx/DEDSEC_BLUEHID/blob/main/banner.png", width="900", height="900">
+<img src="https://github.com/0xbitx/DEDSEC_BKIF/blob/main/banner.png", width="900", height="900">
 </p>
 
 ## INSTALLATION 
